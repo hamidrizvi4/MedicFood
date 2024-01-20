@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>810444065213-58b6kd6l2d1ekd5f556mk4f18i6deijo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.810444065213-58b6kd6l2d1ekd5f556mk4f18i6deijo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>810444065213-99rh1fijs50tvburc6hn4mql81h8f7ec.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB20o0Vwz4gj-f8QsJK-f6JpEdkuPXrSF0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>810444065213</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.srmist.medicfood</string>
+	<key>PROJECT_ID</key>
+	<string>fooddruginteraction-a4a52</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fooddruginteraction-a4a52.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:810444065213:ios:1e2739a4c6e28e7e23aad4</string>
+</dict>
+</plist>

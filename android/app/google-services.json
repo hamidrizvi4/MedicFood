@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "810444065213",
+    "project_id": "fooddruginteraction-a4a52",
+    "storage_bucket": "fooddruginteraction-a4a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810444065213:android:9bb9e898b00341bd23aad4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRpRFtISXpcB_1dTBrNd1Prd_yFav5Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810444065213-58b6kd6l2d1ekd5f556mk4f18i6deijo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srmist.medicfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810444065213:android:dec5c49b8ee26ed023aad4",
+        "android_client_info": {
+          "package_name": "com.example.med_med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810444065213-optfn5gkjdfuhbbjg4kjkooopo49aufi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.med_med",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRpRFtISXpcB_1dTBrNd1Prd_yFav5Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810444065213-58b6kd6l2d1ekd5f556mk4f18i6deijo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srmist.medicfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810444065213:android:c0b39e1cd2b5930a23aad4",
+        "android_client_info": {
+          "package_name": "com.srm.medicfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810444065213-iuq1q3hlrnp1aaampkeovoc7crnifor9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srm.medicfood",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRpRFtISXpcB_1dTBrNd1Prd_yFav5Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810444065213-58b6kd6l2d1ekd5f556mk4f18i6deijo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srmist.medicfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810444065213:android:175f49954cae4ecc23aad4",
+        "android_client_info": {
+          "package_name": "com.srmist.medicfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810444065213-99rh1fijs50tvburc6hn4mql81h8f7ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srmist.medicfood",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRpRFtISXpcB_1dTBrNd1Prd_yFav5Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810444065213-ktq23k3cfm2tt2r050imjagicu5oi59i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810444065213-58b6kd6l2d1ekd5f556mk4f18i6deijo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srmist.medicfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
